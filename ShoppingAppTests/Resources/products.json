@@ -1,0 +1,122 @@
+[
+   {
+      "productName":"La Lorraine Tombul Ekmek",
+      "productDescription":"DoÄŸal ham maddelerden Ã¼retilir.Koruyucu ve katkÄ± maddesi iÃ§ermez.Ä°Ã§indekiler: Un, su, maya, tuz",
+      "productPrice":7.5,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5f36a28b29d3b131b9d95548_tr_1637858193743.jpeg"
+   },
+   {
+      "productName":"Backhaus Koko Kurabiyesi",
+      "productDescription":"Ä°Ã§inde gerÃ§ek hindistan cevizi vardÄ±r.ÃœrÃ¼n ambalajÄ± ile kuru bir ortamda saklanmalÄ±dÄ±r.",
+      "productPrice":14,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/60801eada9eb26c147b8e494_tr_1619794759098.jpeg"
+   },
+   {
+      "productName":"Eti Browni Intense Mini Ã‡ikolatalÄ± Kek",
+      "productDescription":"Paket iÃ§erisinde 10 adet Ã§ikolatalÄ± mini kek yer almaktadÄ±r.",
+      "productPrice":14.85,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5f56456dd7f707468a738c96_tr_1601033990645.jpeg"
+   },
+   {
+      "productName":"Patiswiss Crunchy Karamel BiskÃ¼vi KremasÄ±",
+      "productDescription":"Karamelize BiskÃ¼vi KremasÄ± Crunchy, Patiswiss karamelize biskÃ¼vinin sÃ¼rÃ¼lebilir halidir.Ä°Ã§eriÄŸindeki biskÃ¼vi parÃ§acÄ±klarÄ± ve krema kÄ±vamÄ±ndaki yapÄ±sÄ±yla kahvaltÄ±larda tÃ¼ketilebilir.",
+      "productPrice":27.5,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/60a3c535fb21a8150cedc89e_tr_1621705316751.jpeg"
+   },
+   {
+      "productName":"Ä°Ã§im %3 YaÄŸlÄ± SÃ¼t",
+      "productDescription":"HiÃ§bir katkÄ± maddesi iÃ§ermez.",
+      "productPrice":12.95,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg"
+   },
+   {
+      "productName":"MandÄ±radan Tam YaÄŸlÄ± OlgunlaÅŸtÄ±rÄ±lmÄ±ÅŸ Trakya Eski KaÅŸar Peyniri",
+      "productDescription":"Åžirden mayasÄ± kullanÄ±larak pastÃ¶rize keÃ§i, koyun ve inek sÃ¼tlerinden Ã¼retilmiÅŸtir.",
+      "productPrice":56.75,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5e3c6800fdf97eeb3cacc09b_tr_1641556037148.jpeg"
+   },
+   {
+      "productName":"Cerroni Cheddar Peyniri",
+      "productDescription":"Turuncu rengini Achiote AÄŸacÄ± tohumlarÄ±ndan elde edilen Annattoâ€™dan alÄ±r.",
+      "productPrice":53.45,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/60ab91be4dc3483b24e4913e_tr_1641558916798.jpeg"
+   },
+   {
+      "productName":"La Vache Qui Rit Krem Peynir",
+      "productDescription":"Kalsiyum, D vitamini ve Protein ile zengin bir iÃ§eriÄŸe sahiptir. KahvaltÄ±lÄ±k veya atÄ±ÅŸtÄ±rmalÄ±k olarak tÃ¼ketilebilir.",
+      "productPrice":28.55,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5d66630ce9f977000106ddb1_tr_1567435984787.jpeg"
+   },
+   {
+      "productName":"Activia KarÄ±ÅŸtÄ±r & AtÄ±ÅŸtÄ±r Tam BuÄŸday GevreÄŸi & Ã‡ilek",
+      "productDescription":"Sindirim sistemini dÃ¼zenlemeye yardÄ±mcÄ± olan kalsiyum ve protein kaynaÄŸÄ±dÄ±r.",
+      "productPrice":9.65,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/56b5c0592fc3d00f005faf19_tr_1586435004920.jpeg"
+   },
+   {
+      "productName":"MandÄ±radan Erzincan TereyaÄŸÄ±",
+      "productDescription":"%100 doÄŸal pastÃ¶rize sÃ¼t kremasÄ±ndan Ã¼retilmiÅŸtir.",
+      "productPrice":42.25,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5e3c5f48ca767aa5559a8ee2_tr_1641556515037.jpeg"
+   },
+   {
+      "productName":"Colgate Hassasiyete Pro-Ã‡Ã¶zÃ¼m AnÄ±nda Rahatlama DiÅŸ Macunu",
+      "productDescription":"Pro Argin formÃ¼lÃ¼, diÅŸ hekimlerinin hastalarÄ±nÄ±n diÅŸlerdeki hassasiyeti rahatlatmak iÃ§in kullandÄ±klarÄ± yeni bir teknolojiye sahiptir.",
+      "productPrice":57.9,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5ce65820a72a950001cc884d_tr_1609902500441.jpeg"
+   },
+   {
+      "productName":"Colgate Plax Nane FerahlÄ±ÄŸÄ± AÄŸÄ±z BakÄ±m Suyu",
+      "productDescription":"Daha uzun sÃ¼reli ferah nefes saÄŸlar. Ã‡Ã¼rÃ¼klere karÅŸÄ± florÃ¼r iÃ§erir.",
+      "productPrice":14.65,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/570b249667a71d0300cb8586_tr_1583127241308.jpeg"
+   },
+   {
+      "productName":"Domestos YoÄŸun KÄ±vamlÄ± Ã‡amaÅŸÄ±r Suyu DaÄŸ Esintisi",
+      "productDescription":"YoÄŸun kÄ±vamlÄ± formÃ¼lÃ¼yle yÃ¼zeylere tutunarak uzun sÃ¼re etki saÄŸlar.",
+      "productPrice":14.75,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5d7f8dd10ed2c200010d5152_b6135284-0ab2-4b07-a7ef-fa4f754902e1.jpeg"
+   },
+   {
+      "productName":"Domestos YÃ¼zey Temizleyici Ã‡am",
+      "productDescription":"TÃ¼m zeminlerde kullanÄ±labilir.",
+      "productPrice":29.9,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/60ad26592af303bcbf206148_b64a8058-ef7e-43ec-9214-71130b5ba1a4.jpeg"
+   },
+   {
+      "productName":"Vileda Standart Temizlik Eldiveni",
+      "productDescription":"GÃ¶rsellerdeki Ã¼rÃ¼nlerden herhangi bir tanesi teslim edilecektir.",
+      "productPrice":20.9,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/60098ab7ad89ed352fca7207_tr_1611247980060.jpeg"
+   },
+   {
+      "productName":"Palmolive Mutfak Koku Giderici SÄ±vÄ± Sabun",
+      "productDescription":"Limon Ã¶zÃ¼ ile zenginleÅŸtirilmiÅŸ formÃ¼lÃ¼ ile mutfakta oluÅŸan kÃ¶tÃ¼ kokulardan tamamen kurtulmanÄ±zÄ± saÄŸlar.",
+      "productPrice":13.45,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5e6a0f71dd2c25262e6d33e7_tr_1604128913839.jpeg"
+   },
+   {
+      "productName":"Kuzeyden Su",
+      "productDescription":"Basketbol Milli TakÄ±mlar ve Voleybol Milli TakÄ±mlar Resmi Su Sponsoru Kuzeyden.",
+      "productPrice":19.95,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5d6d25506deb8b00011f6027_tr_1616483020681.jpeg"
+   },
+   {
+      "productName":"Exotic Limonata",
+      "productDescription":"Taze limon suyu kullanÄ±larak geleneksel yÃ¶ntemler ile hazÄ±rlanmÄ±ÅŸtÄ±r.",
+      "productPrice":21.7,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5ceae038c461e70001cc9808_tr_1609902805128.jpeg"
+   },
+   {
+      "productName":"Faladdin TÃ¼rk Kahvesi Klasik",
+      "productDescription":"Paketten Ã§Ä±kan kod iÃ§inde Faladdin uygulamasÄ±nda Ã¼cretsiz fal baktÄ±rabileceÄŸiniz kredi hakkÄ± yer almaktadÄ±r.",
+      "productPrice":11.6,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5f71b1bcb496656e39ce0d42_tr_1609400728683.png"
+   },
+   {
+      "productName":"Ä°thal Muz",
+      "productDescription":"600 gr",
+      "productPrice":21.95,
+      "productImage":"https://github.com/android-getir/public-files/blob/main/images/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg"
+   }
+]
